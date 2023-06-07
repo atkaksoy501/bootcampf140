@@ -6,7 +6,7 @@ Takım Flutter 140
 
 ## Takım Elemanları
 - Hazal ÖZER: Scrum Master / Developer
-- Atakan Aksoy:  Product Owner /Developer
-- Mizgin Yaşar: Developer
+- Atakan AKSOY:  Product Owner /Developer
+- Mizgin YAŞAR: Developer
 - Mustafa TOKTAŞ: Developer
-- Zinnur Yıldız: Aktif Olmayan Üye
+- Zinnur YILDIZ: Aktif Olmayan Üye
