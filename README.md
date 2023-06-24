@@ -26,7 +26,9 @@ Takım Flutter 140
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. 
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir.İhtiyaç durumuna göre de Slack üzerinden online toplantılar yapılmıştır.
+
+- <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20görüntüsü%202023-06-24%20204705.png" width="auto">
 
 - **Sprint board update**: Sprint board screenshotları: 
 
