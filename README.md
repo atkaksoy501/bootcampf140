@@ -33,10 +33,11 @@ Takım Flutter 140
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-<img src="https://github.com/atkaksoy501/bootcampf140/blob/main/image.png" width="auto">  
+<img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20görüntüsü%202023-06-21%20024657.png" width="auto">  
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20görüntüsü%202023-06-21%20030501.png" width="auto">
+ <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20görüntüsü%202023-06-21%20030501.png" width="auto">
 <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20görüntüsü%202023-06-21%20030636.png" width="auto">  
 
 
@@ -69,7 +70,7 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 <img src="LİNK GELECEK">  
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- <img src="LİNK GELECEK">
+<img src="https://github.com/atkaksoy501/bootcampf140/blob/main/image.png" width="auto">  
   
 
 
