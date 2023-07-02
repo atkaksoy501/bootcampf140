@@ -47,3 +47,36 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 - **Sprint Retrospective:**
 
  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+   # Sprint 2
+
+- **Sprint notları**:
+- 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 150 puan verildi 
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir.İhtiyaç durumuna göre de Slack üzerinden online toplantılar yapılmıştır.
+
+- <img src="LİNK GELECEK">
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+<img src="LİNK GELECEK">  
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- <img src="LİNK GELECEK">
+  
+
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve eksiklikleri değerlendirilmiştir. 
+Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mustafa TOKTAŞ
+
+- **Sprint Retrospective:**
+
+ - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
