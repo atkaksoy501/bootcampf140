@@ -52,7 +52,11 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
    # Sprint 2
 
 - **Sprint notları**:
-- 
+- Teknik aksaklıklar sebebiyle belirlediğimiz uygulamadan ekip toplantısında vazgeçtik.
+- Yeni uygulama fikrini belirledik.
+- Uygulamanın planlaması yapıldı. Temel sayfalar belirlendi, bazıları kodlandı.
+- Daily Scrum toplantılarımız whatsapp üzerinden yapıldı. Haftalık Toplantılar için Slack takım kanalı tercih edildi.
+- Gelecek Sprintin görevleri belirlendi.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
 
@@ -62,12 +66,12 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 
 - **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir.İhtiyaç durumuna göre de Slack üzerinden online toplantılar yapılmıştır.
 
-- <img src="LİNK GELECEK">
+- <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%2002.07.2023.jpeg" width="auto">
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-<img src="LİNK GELECEK">  
+<img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-trello-02.07.2023.jpeg" width="auto">  
 
 - **Ürün Durumu**: Ekran görüntüleri:
 <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/image.png" width="auto">  
