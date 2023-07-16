@@ -3,14 +3,52 @@
 Takım Flutter 140
 
 # Ürün İle İlgili Bilgiler
-Ürünümüz mutfak envanteri olışturmaya ve elimizdeki malzelemere en uygun yemek tarifi vermeye yarayan bir uygulama
+Klavye ile verilen sayıları matematiksel dört işlem ile sonuca ulaştırmayı yarayan uygulama
 
 ## Takım Elemanları
 - Hazal ÖZER: Scrum Master / Developer
-- Atakan AKSOY:  Product Owner /Developer
-- Mizgin YAŞAR: Developer
+- Mizgin YAŞAR: Product Owner / Developer
+- Atakan AKSOY:  Developer
 - Mustafa TOKTAŞ: Developer
 - Zinnur YILDIZ: Aktif Olmayan Üye
+
+
+## Ürün İsmi
+
+--Hesap Makinesi--
+
+## Product Backlog URL
+
+
+
+## Ürün Açıklaması
+
+Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+
+
+- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
+
+- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+
+## Ürün Özellikleri
+
+- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
+- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
+- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
+- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+
+## Hedef Kitle
+
+- Öğrenciler
+- Öğretmenler
+- Alışveriş yapan kişiler
+
+## Juriye Not
+
+İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
+
+
+
 
 # Sprint 1
 
@@ -85,3 +123,41 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 - **Sprint Retrospective:**
 
  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+ -   # Sprint 3
+
+- **Sprint notları**:
+- Uygulamayı bootcamp sunumuna hazırlan
+- Daily Scrum toplantılarımız whatsapp üzerinden yapıldı. Haftalık Toplantılar için Slack takım kanalı tercih edildi.
+- Son sprint olması sebebiyle ekip motivasyonuna önem verilmiş, gelecek projeler için ekip bağına önem verilmesi gerektiği bildirilmiştir.
+- Atakan Aksoy'un üstlendiği Product Owner Bu Spritn ile Mizgin Yaşara verilmiştir. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'e 100 puan verildi 
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir.İhtiyaç durumuna göre de Slack üzerinden online toplantılar yapılmıştır.
+
+- <img src="LİNK BURAYA GELECEK" width="auto">
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+<img src="LİNK BURAYA GELECEK" width="auto">  
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- Görsel değişiklik yapılmamıştır.
+<img src="https://github.com/atkaksoy501/bootcampf140/blob/main/image.png" width="auto">  
+  
+
+
+- **Sprint Review**: 
+Alınan kararlar: Son sprint olması ve Bootcamp sonu sebebiyle ekip motivastonuna önem verilmiş. Ekip bağını ileriki projelerde devam ettirme kararı alınmıştır.
+Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mustafa TOKTAŞ
+
+- **Sprint Retrospective:**
+
+ - Takım üyelerinin özeleştiri sonucu eksikleri belirlenmiş gelecek projeler için bu eksikleri geliştirip daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
