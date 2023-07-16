@@ -140,7 +140,7 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 
 - **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir.İhtiyaç durumuna göre de Slack üzerinden online toplantılar yapılmıştır.
 
-- <img src="LİNK BURAYA GELECEK" width="auto">
+- <img src="https://github.com/atkaksoy501/bootcampf140/blob/main/WhatsApp%20Image%202023-07-17%20at%2000.43.01.jpeg" width="auto">
 
 - **Sprint board update**: Sprint board screenshotları: 
 
