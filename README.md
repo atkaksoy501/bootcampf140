@@ -127,7 +127,9 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
  -   # Sprint 3
 
 - **Sprint notları**:
-- Uygulamayı bootcamp sunumuna hazırlan
+- İlk toplantıda kararlaştırdığımız uygulama planı üzerinden geçildi.
+- Uygulamaya ekleme- çıkarma yapma noktasında fikir alışverişi yapıldı.
+- Uygulamayı bootcamp sunumuna hazırla
 - Daily Scrum toplantılarımız whatsapp üzerinden yapıldı. Haftalık Toplantılar için Slack takım kanalı tercih edildi.
 - Son sprint olması sebebiyle ekip motivasyonuna önem verilmiş, gelecek projeler için ekip bağına önem verilmesi gerektiği bildirilmiştir.
 - Atakan Aksoy'un üstlendiği Product Owner Bu Spritn ile Mizgin Yaşara verilmiştir. 
@@ -145,7 +147,7 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-<img src="LİNK BURAYA GELECEK" width="auto">  
+<img src="https://github.com/atkaksoy501/bootcampf140/blob/main/Trello%203_17.07.2023.jpeg" width="auto">  
 
 - **Ürün Durumu**: Ekran görüntüleri:
 - Görsel değişiklik yapılmamıştır.
