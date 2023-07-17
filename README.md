@@ -114,7 +114,7 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mustafa TOKTAŞ
+Sprint Review katılımcıları:  Hazal ÖZER,  Mizgin YAŞAR , Mustafa TOKTAŞ
 
 - **Sprint Retrospective:**
 
@@ -153,7 +153,7 @@ Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mu
 
 - **Sprint Review**: 
 Alınan kararlar: Son sprint olması ve Bootcamp sonu sebebiyle ekip motivastonuna önem verilmiş. Ekip bağını ileriki projelerde devam ettirme kararı alınmıştır.
-Sprint Review katılımcıları:  Hazal ÖZER, Atakan AKSOY,  Mizgin YAŞAR , Mustafa TOKTAŞ
+Sprint Review katılımcıları:  Hazal ÖZER, Mizgin YAŞAR , Mustafa TOKTAŞ
 
 - **Sprint Retrospective:**
 
